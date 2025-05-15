@@ -1,5 +1,3 @@
----
-
 # ✅ Requisitos
 
 Antes de começar, certifique-se de que você tenha os seguintes softwares instalados na sua máquina:
