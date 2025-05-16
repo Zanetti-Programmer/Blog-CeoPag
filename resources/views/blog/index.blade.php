@@ -572,7 +572,7 @@
             <section class="featured-post">
               @if (isset($featuredArticle))
                 <div class="featured-content">
-                  <span class="featured-label">Featured</span>
+                  <span class="featured-label">Destaque</span>
                   <h1 class="featured-title">
                     {{$featuredArticle->title}}
                   </h1>
