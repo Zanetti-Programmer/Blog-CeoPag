@@ -62,5 +62,3 @@ php artisan serve
 Depois de iniciar os dois servidores, acesse o link gerado no terminal (geralmente `http://127.0.0.1:8000`) para ver o projeto rodando no navegador.
 
 ---
-
-Se quiser, posso também gerar uma versão em inglês ou adicionar outras instruções como `.env.example`, configuração de banco etc. Deseja?
